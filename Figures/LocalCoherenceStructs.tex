@@ -1,0 +1,57 @@
+\documentclass[12pt, tikz, border = 12pt]{standalone}
+
+%\usepackage{fontspec}
+%\setmainfont{Times New Roman}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\begin{document}
+\pagenumbering{gobble}
+\usetikzlibrary{positioning}
+
+\begin{tikzpicture}[sibling distance=5em, level distance = 1cm, thick, align = center,
+every node/.style = {shape=black,rectangle, solid, rounded corners, draw}]
+
+%% Define figure frame
+%\clip (-0.2, 7.5) rectangle (10.2, 2.5);
+%\draw[help lines] (-7, 11) grid (7, 0);
+
+% Upper part
+\node at (1, 8) (Prep2) {at};
+\node [below=20pt] at (1, 8) (Ndep2) {N};
+\node at (4, 8) (NP2) {player};
+\node [below=20pt] at (4, 8) (RelClause2) {RCMod};
+\node at (7, 8) (Part2) {tossed/\\thrown};
+\node [below=20pt] at (7, 8) (Subj2) {Subj.};
+\node [draw=none] at (5.5,8) (one) {1};
+\node [draw=none] at (0.7, 9) (gramm) {A) Grammatical parse:};
+
+\path (Prep2) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (Ndep2);
+\path (NP2) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (RelClause2);
+\path (Part2) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (Subj2);
+
+\path (Ndep2) edge [-, dashed, thick, out = 0, in = 180, looseness = 1.4] (NP2);
+\path (RelClause2) edge [-, dashed, thick, out = 0, in = 180, looseness = 1.4] (Part2);
+
+% Lower part						
+\node at (1, 5) (Prep) {at};
+\node [below=20pt] at (1, 5) (Ndep) {N};
+\node at (4, 5) (NP) {player};
+\node [below=20pt] at (4, 5) (RelClause) {RCMod};
+\node at (7, 5) (Part) {tossed/\\thrown};
+\node [below=20pt] at (7, 5) (Subj) {Subj.};
+\node [draw=none] at (5.5,5) (two) {2};
+\node [draw=none] at (1, 6) (gramm) {B) Locally coherent parse:};
+
+% Links
+\path (Prep) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (Ndep);
+\path (NP) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (RelClause);
+\path (Part) edge [-, solid, thick, out = -90, in = 90, looseness = 1.4] (Subj);
+
+\path (NP) edge [-, dashed, thick, out = 0, in = 180, looseness = 1.4] (Subj);
+
+\end{tikzpicture}
+
+\end{document}
