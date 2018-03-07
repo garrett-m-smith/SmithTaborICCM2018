@@ -1,6 +1,34 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Bansal%
+}{%
+Bansal%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+bansal2015dependency}
+\APACinsertmetastar {%
+bansal2015dependency}%
+\begin{APACrefauthors}%
+Bansal, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dependency Link Embeddings: Continuous Representations
+  of Syntactic Substructures.} {Dependency link embeddings: Continuous
+  representations of syntactic substructures.}{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of {NAACL-HLT} 2015} {Proceedings of
+  {NAACL-HLT} 2015}\ (\BPGS\ 102--108).
+\newblock
+\APACaddressPublisher{Denver, Colorado}{Association for Computational
+  Linguistics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bicknell%
 , Levy%
 \BCBL {}\ \BBA {} Demberg%
@@ -31,35 +59,31 @@ Bicknell, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cho%
-, Goldrick%
-, Lewis%
-\BCBL {}\ \BBA {} Smolensky%
+Cai%
+, Sturt%
+\BCBL {}\ \BBA {} Pickering%
 }{%
-Cho%
+Cai%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
+{\protect \APACyear {2012}}%
 }]{%
-cho2018dynamic}
+cai2012effect}
 \APACinsertmetastar {%
-cho2018dynamic}%
+cai2012effect}%
 \begin{APACrefauthors}%
-Cho, P\BPBI W.%
-, Goldrick, M.%
-, Lewis, R\BPBI L.%
-\BCBL {}\ \BBA {} Smolensky, P.%
+Cai, Z\BPBI G.%
+, Sturt, P.%
+\BCBL {}\ \BBA {} Pickering, M\BPBI J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018}{}{}.
+\APACrefYearMonthDay{2012}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Dynamic encoding of structural uncertainty in gradient
-  symbols} {Dynamic encoding of structural uncertainty in gradient
-  symbols}.{\BBCQ}
+{\BBOQ}\APACrefatitle {The effect of nonadopted analyses on sentence
+  processing} {The effect of nonadopted analyses on sentence
+  processing}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the 8th Workshop on Cognitive Modeling
-  and Computational Linguistics.} {Proceedings of the 8th workshop on cognitive
-  modeling and computational linguistics.}
+\APACjournalVolNumPages{Language and Cognitive Processes}{27}{9}{1286--1311}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -89,36 +113,6 @@ Cho, P\BPBI W.%
   {S}ymbolic {C}omputation}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Linguistics Vanguard}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Cho%
-\ \BBA {} Smolensky%
-}{%
-Cho%
-\ \BBA {} Smolensky%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-cho2016bifurcation}
-\APACinsertmetastar {%
-cho2016bifurcation}%
-\begin{APACrefauthors}%
-Cho, P\BPBI W.%
-\BCBT {}\ \BBA {} Smolensky, P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Bifurcation analysis of a gradient symbolic computation
-  model of incremental processing} {Bifurcation analysis of a gradient symbolic
-  computation model of incremental processing}.{\BBCQ}
-\newblock
-\BIn{} A.~Papafragou, D.~Grodner, D.~Mirman\BCBL {}\ \BBA {} J\BPBI
-  C.~Trueswell\ (\BEDS), \APACrefbtitle {Proceedings of the 38th Annual
-  Conference of the Cognititve Science Society} {Proceedings of the 38th annual
-  conference of the cognititve science society}\ (\BPGS\ 1487--1492).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -172,6 +166,88 @@ Ciocoiu, I\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Eberhard%
+, Cutting%
+\BCBL {}\ \BBA {} Bock%
+}{%
+Eberhard%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+eberhard2005making}
+\APACinsertmetastar {%
+eberhard2005making}%
+\begin{APACrefauthors}%
+Eberhard, K\BPBI M.%
+, Cutting, J\BPBI C.%
+\BCBL {}\ \BBA {} Bock, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Making syntax of sense: number agreement in sentence
+  production.} {Making syntax of sense: number agreement in sentence
+  production.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Review}{112}{3}{531--559}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Engelmann%
+, J\"ager%
+\BCBL {}\ \BBA {} Vasishth%
+}{%
+Engelmann%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+engelmann2018effect}
+\APACinsertmetastar {%
+engelmann2018effect}%
+\begin{APACrefauthors}%
+Engelmann, F.%
+, J\"ager, L\BPBI A.%
+\BCBL {}\ \BBA {} Vasishth, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The effect of prominence and cue association in
+  retrieval processes: A computational account} {The effect of prominence and
+  cue association in retrieval processes: A computational account}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive Science}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Frazier%
+\ \BBA {} Fodor%
+}{%
+Frazier%
+\ \BBA {} Fodor%
+}{%
+{\protect \APACyear {1978}}%
+}]{%
+frazier1978sausage}
+\APACinsertmetastar {%
+frazier1978sausage}%
+\begin{APACrefauthors}%
+Frazier, L.%
+\BCBT {}\ \BBA {} Fodor, J\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1978}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The sausage machine: A new two-stage parsing model} {The
+  sausage machine: A new two-stage parsing model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{6}{}{291--325}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gerth%
 \ \BBA {} {beim Graben}%
 }{%
@@ -197,6 +273,53 @@ Gerth, S.%
   parser}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive neurodynamics}{3}{4}{297--316}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gibson%
+}{%
+Gibson%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+gibson1991computational}
+\APACinsertmetastar {%
+gibson1991computational}%
+\begin{APACrefauthors}%
+Gibson, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {A Computational Theory of Human Linguistic Processing: Memory
+  Limitations and Processing Breakdown} {A computational theory of human
+  linguistic processing: Memory limitations and processing breakdown}.
+\newblock
+\BUPhD, Carnegie Mellon University.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Haken%
+}{%
+Haken%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+haken1983synergetics}
+\APACinsertmetastar {%
+haken1983synergetics}%
+\begin{APACrefauthors}%
+Haken, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1983}.
+\newblock
+\APACrefbtitle {Synergetics: {A}n introduction} {Synergetics: {A}n
+  introduction}\ (\PrintOrdinal{3}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Springer-Verlag}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -338,6 +461,30 @@ Kempen, G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kimball%
+}{%
+Kimball%
+}{%
+{\protect \APACyear {1973}}%
+}]{%
+kimball1973seven}
+\APACinsertmetastar {%
+kimball1973seven}%
+\begin{APACrefauthors}%
+Kimball, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1973}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Seven principles of surface structure parsing in natural
+  language} {Seven principles of surface structure parsing in natural
+  language}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{2}{1}{15--47}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Konieczny%
 }{%
 Konieczny%
@@ -361,6 +508,97 @@ Konieczny, L.%
 \BIn{} \APACrefbtitle {Proceedings of the 27th annual conference of the
   {C}ognitive {S}cience {S}ociety} {Proceedings of the 27th annual conference
   of the {C}ognitive {S}cience {S}ociety}\ (\BPGS\ 1178--1183).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Konieczny%
+, M{\"u}ller%
+, Hachmann%
+, Schwarzkopf%
+\BCBL {}\ \BBA {} Wolfer%
+}{%
+Konieczny%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+konieczny2009local}
+\APACinsertmetastar {%
+konieczny2009local}%
+\begin{APACrefauthors}%
+Konieczny, L.%
+, M{\"u}ller, D.%
+, Hachmann, W.%
+, Schwarzkopf, S.%
+\BCBL {}\ \BBA {} Wolfer, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Local syntactic coherence interpretation. Evidence from
+  a visual world study} {Local syntactic coherence interpretation. evidence
+  from a visual world study}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 31st annual conference of the
+  {C}ognitive {S}cience {S}ociety.} {Proceedings of the 31st annual conference
+  of the {C}ognitive {S}cience {S}ociety.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Koschmieder%
+}{%
+Koschmieder%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+koschmieder1993benard}
+\APACinsertmetastar {%
+koschmieder1993benard}%
+\begin{APACrefauthors}%
+Koschmieder, E\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {B{\'e}nard cells and Taylor vortices} {B{\'e}nard cells and
+  taylor vortices}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kukona%
+, Cho%
+, Magnuson%
+\BCBL {}\ \BBA {} Tabor%
+}{%
+Kukona%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+kukona2014lexical}
+\APACinsertmetastar {%
+kukona2014lexical}%
+\begin{APACrefauthors}%
+Kukona, A.%
+, Cho, P\BPBI W.%
+, Magnuson, J\BPBI S.%
+\BCBL {}\ \BBA {} Tabor, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lexical interference effects in sentence processing:
+  Evidence from the visual world paradigm and self-organizing models} {Lexical
+  interference effects in sentence processing: Evidence from the visual world
+  paradigm and self-organizing models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Experimental Psychology: Learning, Memory,
+  and Cognition}{40}{2}{326--347}.
+\newblock
+\begin{APACrefDOI} \doi{10.1037/a0034903} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -415,6 +653,33 @@ Levy, R.%
 \newblock
 \APACjournalVolNumPages{Proceedings of the National Academy of
   Sciences}{106}{50}{21086--21090}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lewis%
+\ \BBA {} Vasishth%
+}{%
+Lewis%
+\ \BBA {} Vasishth%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+lewis2005activation}
+\APACinsertmetastar {%
+lewis2005activation}%
+\begin{APACrefauthors}%
+Lewis, R\BPBI L.%
+\BCBT {}\ \BBA {} Vasishth, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An activation-based model of sentence processing as
+  skilled memory retrieval} {An activation-based model of sentence processing
+  as skilled memory retrieval}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive Science}{29}{}{375--419}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -651,6 +916,53 @@ Smolensky, P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Smolensky%
+}{%
+Smolensky%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+smolensky2006harmony}
+\APACinsertmetastar {%
+smolensky2006harmony}%
+\begin{APACrefauthors}%
+Smolensky, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Harmony in linguistic cognition} {Harmony in linguistic
+  cognition}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive Science}{30}{}{779--801}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stevenson%
+}{%
+Stevenson%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+stevenson1994competition}
+\APACinsertmetastar {%
+stevenson1994competition}%
+\begin{APACrefauthors}%
+Stevenson, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Competition and recency in a hybrid network model of
+  syntactic disambiguation} {Competition and recency in a hybrid network model
+  of syntactic disambiguation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of psycholinguistic research}{23}{4}{295--322}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Strogatz%
 }{%
 Strogatz%
@@ -756,6 +1068,30 @@ Traxler, M\BPBI J.%
   resolution}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Memory and Language}{39}{}{558--592}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Turing%
+}{%
+Turing%
+}{%
+{\protect \APACyear {1952}}%
+}]{%
+turing1952chemical}
+\APACinsertmetastar {%
+turing1952chemical}%
+\begin{APACrefauthors}%
+Turing, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1952}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The chemical basis of morphogenesis} {The chemical basis
+  of morphogenesis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}{237}{641}{37--72}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -898,6 +1234,41 @@ Vosse, T.%
   and error-tolerance in a constraint-based parser}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive neurodynamics}{3}{4}{331-346}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhao%
+, Huang%
+, Dai%
+, Zhang%
+\BCBL {}\ \BBA {} Chen%
+}{%
+Zhao%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+zhao2014learning}
+\APACinsertmetastar {%
+zhao2014learning}%
+\begin{APACrefauthors}%
+Zhao, Y.%
+, Huang, S.%
+, Dai, X.%
+, Zhang, J.%
+\BCBL {}\ \BBA {} Chen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{Oct}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning word embeddings from dependency relations}
+  {Learning word embeddings from dependency relations}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2014 International Conference on Asian Language
+  Processing (IALP)} {2014 international conference on asian language
+  processing (ialp)}\ (\BPG~123-127).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/IALP.2014.6973490} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
