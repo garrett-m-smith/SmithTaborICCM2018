@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  7 MAR 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  15 MAR 2018 21:42
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**ICCMPaper00.tex
-(./ICCMPaper00.tex
+**Smith_03_15_18.tex
+(./Smith_03_15_18.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -225,8 +225,8 @@ LaTeX Info: Redefining \c on input line 311.
 LaTeX Info: Redefining \d on input line 313.
 \c@tmpaEx=\count109
 )
-(./ICCMPaper00.aux)
-\openout1 = `ICCMPaper00.aux'.
+(./Smith_03_15_18.aux)
+\openout1 = `Smith_03_15_18.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -353,105 +353,100 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 
-Underfull \hbox (badness 3333) in paragraph at lines 41--42
-\OT1/ptm/m/n/10 Self-organized sen-tence pro-cess-ing []SOSP; Kem-pen &
+Underfull \hbox (badness 1024) in paragraph at lines 33--34
+\OT1/ptm/m/n/10 Konieczny, M[]uller, Hachmann, Schwarzkopf, & Wolfer,
  []
 
-[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+<../Figures/fig1v03cropped.pdf, id=1, 452.07104pt x 319.53659pt>
+File: ../Figures/fig1v03cropped.pdf Graphic file (type pdf)
 
-
-
-]
-<../Figures/ToyHarmonySurface.pdf, id=9, 688.89647pt x 457.99104pt>
-File: ../Figures/ToyHarmonySurface.pdf Graphic file (type pdf)
-
-<use ../Figures/ToyHarmonySurface.pdf>
-Package pdftex.def Info: ../Figures/ToyHarmonySurface.pdf used on input line 53
-.
-(pdftex.def)             Requested size: 243.91125pt x 162.15118pt.
+<use ../Figures/fig1v03cropped.pdf>
+Package pdftex.def Info: ../Figures/fig1v03cropped.pdf used on input line 41.
+(pdftex.def)             Requested size: 243.91125pt x 172.40578pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <../Figures/ToyHarmonySurface.pdf>] [3]
+<../Figures/ToyHarmonySurface02.pdf, id=2, 645.19278pt x 457.99104pt>
+File: ../Figures/ToyHarmonySurface02.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `dyn1d' on page 4 undefined on input line 137.
-
-
-LaTeX Warning: Reference `dyn1d' on page 4 undefined on input line 137.
-
-[4] <../Model/HarmonyContours.pdf, id=58, 398.517pt x 728.73941pt>
-File: ../Model/HarmonyContours.pdf Graphic file (type pdf)
-
-<use ../Model/HarmonyContours.pdf>
-Package pdftex.def Info: ../Model/HarmonyContours.pdf used on input line 155.
-(pdftex.def)             Requested size: 195.12975pt x 356.81856pt.
- [5 <../Model/HarmonyContours.pdf>]
-<../Model/TimesAsFnOfH1.pdf, id=103, 466.1415pt x 729.53928pt>
-File: ../Model/TimesAsFnOfH1.pdf Graphic file (type pdf)
-
-<use ../Model/TimesAsFnOfH1.pdf>
-Package pdftex.def Info: ../Model/TimesAsFnOfH1.pdf used on input line 171.
-(pdftex.def)             Requested size: 195.12975pt x 305.3914pt.
- (./ICCMPaper00.bbl [6 <../Model/TimesAsFnOfH1.pdf>]
-Underfull \vbox (badness 1043) has occurred while \output is active []
+<use ../Figures/ToyHarmonySurface02.pdf>
+Package pdftex.def Info: ../Figures/ToyHarmonySurface02.pdf used on input line 
+47.
+(pdftex.def)             Requested size: 243.91125pt x 173.1369pt.
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-Underfull \vbox (badness 1558) has occurred while \output is active []
 
- [7]
-Underfull \hbox (badness 1205) in paragraph at lines 1254--1273
-[]\OT1/ptm/m/n/10 Zhao, Y., Huang, S., Dai, X., Zhang, J., & Chen, J.
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 4060) has occurred while \output is active []
+
+ [2 <../Figures/fig1v03cropped.pdf> <../Figures/ToyHarmonySurface02.pdf>]
+Underfull \hbox (badness 6978) in paragraph at lines 56--56
+[][]\OT1/ptm/m/n/9 This par-al-lels the TRACE model of word per-cep-tion
  []
 
+[3] <../Models/HarmonyContours.pdf, id=61, 398.517pt x 728.73941pt>
+File: ../Models/HarmonyContours.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 1365) in paragraph at lines 1254--1273
-\OT1/ptm/m/it/10 asian lan-guage pro-cess-ing (ialp) \OT1/ptm/m/n/10 (p.[] 123-
-127).  doi:
- []
-
-) [8
-
-] (./ICCMPaper00.aux)
-
-LaTeX Warning: There were undefined references.
+<use ../Models/HarmonyContours.pdf>
+Package pdftex.def Info: ../Models/HarmonyContours.pdf used on input line 95.
+(pdftex.def)             Requested size: 182.93344pt x 334.51253pt.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- ) 
+[4 <../Models/HarmonyContours.pdf>]
+<../Models/TimesAsFnOfH1.pdf, id=106, 460.04373pt x 714.85942pt>
+File: ../Models/TimesAsFnOfH1.pdf Graphic file (type pdf)
+
+<use ../Models/TimesAsFnOfH1.pdf>
+Package pdftex.def Info: ../Models/TimesAsFnOfH1.pdf used on input line 109.
+(pdftex.def)             Requested size: 182.93344pt x 284.2589pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./Smith_03_15_18.bbl [5 <../Models/TimesAsFnOfH1.pdf>]
+Underfull \vbox (badness 1946) has occurred while \output is active []
+
+) [6]
+(./Smith_03_15_18.aux) ) 
 Here is how much of TeX's memory you used:
- 3650 strings out of 493117
- 49519 string characters out of 6135433
- 122125 words of memory out of 5000000
- 7004 multiletter control sequences out of 15000+600000
- 53022 words of font info for 109 fonts, out of 8000000 for 9000
+ 3586 strings out of 493117
+ 48163 string characters out of 6135433
+ 120715 words of memory out of 5000000
+ 6937 multiletter control sequences out of 15000+600000
+ 54135 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,24p,2151b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on ICCMPaper00.pdf (8 pages, 651530 bytes).
+ 38i,9n,24p,1687b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/bas
+e/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/
+msbm10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/symbol/usyr.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Smith_03_15_18.pdf (6 pages, 823974 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 193 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

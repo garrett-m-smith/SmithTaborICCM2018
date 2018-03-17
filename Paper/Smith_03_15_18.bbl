@@ -1,34 +1,6 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Bansal%
-}{%
-Bansal%
-}{%
-{\protect \APACyear {2015}}%
-}]{%
-bansal2015dependency}
-\APACinsertmetastar {%
-bansal2015dependency}%
-\begin{APACrefauthors}%
-Bansal, M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2015}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Dependency Link Embeddings: Continuous Representations
-  of Syntactic Substructures.} {Dependency link embeddings: Continuous
-  representations of syntactic substructures.}{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of {NAACL-HLT} 2015} {Proceedings of
-  {NAACL-HLT} 2015}\ (\BPGS\ 102--108).
-\newblock
-\APACaddressPublisher{Denver, Colorado}{Association for Computational
-  Linguistics}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Bicknell%
 , Levy%
 \BCBL {}\ \BBA {} Demberg%
@@ -59,31 +31,35 @@ Bicknell, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cai%
-, Sturt%
-\BCBL {}\ \BBA {} Pickering%
+Cho%
+, Goldrick%
+, Lewis%
+\BCBL {}\ \BBA {} Smolensky%
 }{%
-Cai%
+Cho%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2012}}%
+{\protect \APACyear {2018}}%
 }]{%
-cai2012effect}
+cho2018dynamic}
 \APACinsertmetastar {%
-cai2012effect}%
+cho2018dynamic}%
 \begin{APACrefauthors}%
-Cai, Z\BPBI G.%
-, Sturt, P.%
-\BCBL {}\ \BBA {} Pickering, M\BPBI J.%
+Cho, P\BPBI W.%
+, Goldrick, M.%
+, Lewis, R\BPBI L.%
+\BCBL {}\ \BBA {} Smolensky, P.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2012}{}{}.
+\APACrefYearMonthDay{2018}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {The effect of nonadopted analyses on sentence
-  processing} {The effect of nonadopted analyses on sentence
-  processing}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Dynamic encoding of structural uncertainty in gradient
+  symbols} {Dynamic encoding of structural uncertainty in gradient
+  symbols}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Language and Cognitive Processes}{27}{9}{1286--1311}.
+\BIn{} \APACrefbtitle {Proceedings of the 8th Workshop on Cognitive Modeling
+  and Computational Linguistics.} {Proceedings of the 8th workshop on cognitive
+  modeling and computational linguistics.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -116,135 +92,33 @@ Cho, P\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Ciocoiu%
+Cho%
+\ \BBA {} Smolensky%
 }{%
-Ciocoiu%
+Cho%
+\ \BBA {} Smolensky%
 }{%
-{\protect \APACyear {1996}}%
+{\protect \APACyear {2016}}%
 }]{%
-ciocoiu1996analog}
+cho2016bifurcation}
 \APACinsertmetastar {%
-ciocoiu1996analog}%
+cho2016bifurcation}%
 \begin{APACrefauthors}%
-Ciocoiu, I\BPBI B.%
+Cho, P\BPBI W.%
+\BCBT {}\ \BBA {} Smolensky, P.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{1996}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Analog decoding using a gradient-type neural network}
-  {Analog decoding using a gradient-type neural network}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Bifurcation analysis of a gradient symbolic computation
+  model of incremental processing} {Bifurcation analysis of a gradient symbolic
+  computation model of incremental processing}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{{IEEE} Transactions on Neural
-  Networks}{7}{4}{1034--1038}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Ciocoiu%
-}{%
-Ciocoiu%
-}{%
-{\protect \APACyear {2009}}%
-}]{%
-ciocoiu2009invariant}
-\APACinsertmetastar {%
-ciocoiu2009invariant}%
-\begin{APACrefauthors}%
-Ciocoiu, I\BPBI B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Invariant pattern recognition using analog recurrent
-  associative memories} {Invariant pattern recognition using analog recurrent
-  associative memories}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Neurocomputing}{73}{}{119--126}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.neucom.2009.02.024} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Eberhard%
-, Cutting%
-\BCBL {}\ \BBA {} Bock%
-}{%
-Eberhard%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2005}}%
-}]{%
-eberhard2005making}
-\APACinsertmetastar {%
-eberhard2005making}%
-\begin{APACrefauthors}%
-Eberhard, K\BPBI M.%
-, Cutting, J\BPBI C.%
-\BCBL {}\ \BBA {} Bock, K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Making syntax of sense: number agreement in sentence
-  production.} {Making syntax of sense: number agreement in sentence
-  production.}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Psychological Review}{112}{3}{531--559}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Engelmann%
-, J\"ager%
-\BCBL {}\ \BBA {} Vasishth%
-}{%
-Engelmann%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
-}]{%
-engelmann2018effect}
-\APACinsertmetastar {%
-engelmann2018effect}%
-\begin{APACrefauthors}%
-Engelmann, F.%
-, J\"ager, L\BPBI A.%
-\BCBL {}\ \BBA {} Vasishth, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The effect of prominence and cue association in
-  retrieval processes: A computational account} {The effect of prominence and
-  cue association in retrieval processes: A computational account}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cognitive Science}{}{}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Frazier%
-\ \BBA {} Fodor%
-}{%
-Frazier%
-\ \BBA {} Fodor%
-}{%
-{\protect \APACyear {1978}}%
-}]{%
-frazier1978sausage}
-\APACinsertmetastar {%
-frazier1978sausage}%
-\begin{APACrefauthors}%
-Frazier, L.%
-\BCBT {}\ \BBA {} Fodor, J\BPBI D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1978}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The sausage machine: A new two-stage parsing model} {The
-  sausage machine: A new two-stage parsing model}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cognition}{6}{}{291--325}.
+\BIn{} A.~Papafragou, D.~Grodner, D.~Mirman\BCBL {}\ \BBA {} J\BPBI
+  C.~Trueswell\ (\BEDS), \APACrefbtitle {Proceedings of the 38th Annual
+  Conference of the Cognititve Science Society} {Proceedings of the 38th annual
+  conference of the cognititve science society}\ (\BPGS\ 1487--1492).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -273,30 +147,6 @@ Gerth, S.%
   parser}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive neurodynamics}{3}{4}{297--316}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gibson%
-}{%
-Gibson%
-}{%
-{\protect \APACyear {1991}}%
-}]{%
-gibson1991computational}
-\APACinsertmetastar {%
-gibson1991computational}%
-\begin{APACrefauthors}%
-Gibson, E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1991}.
-\newblock
-\APACrefbtitle {A Computational Theory of Human Linguistic Processing: Memory
-  Limitations and Processing Breakdown} {A computational theory of human
-  linguistic processing: Memory limitations and processing breakdown}.
-\newblock
-\BUPhD, Carnegie Mellon University.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -383,55 +233,6 @@ Han, J\BPBI Y.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Hirsch%
-\ \BBA {} Smale%
-}{%
-Hirsch%
-\ \BBA {} Smale%
-}{%
-{\protect \APACyear {1974}}%
-}]{%
-hirsch1974differential}
-\APACinsertmetastar {%
-hirsch1974differential}%
-\begin{APACrefauthors}%
-Hirsch, M\BPBI W.%
-\BCBT {}\ \BBA {} Smale, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1974}.
-\newblock
-\APACrefbtitle {Differential equations, dynamical systems, and linear algebra}
-  {Differential equations, dynamical systems, and linear algebra}.
-\newblock
-\APACaddressPublisher{}{Academic Press}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Hudson%
-}{%
-Hudson%
-}{%
-{\protect \APACyear {2007}}%
-}]{%
-hudson2007language}
-\APACinsertmetastar {%
-hudson2007language}%
-\begin{APACrefauthors}%
-Hudson, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2007}.
-\newblock
-\APACrefbtitle {Language Networks: The New Word Grammar} {Language networks:
-  The new word grammar}.
-\newblock
-\APACaddressPublisher{}{Oxford University Press}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Kempen%
 \ \BBA {} Vosse%
 }{%
@@ -458,56 +259,6 @@ Kempen, G.%
   annealing}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Connection Science}{1}{3}{273--290}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kimball%
-}{%
-Kimball%
-}{%
-{\protect \APACyear {1973}}%
-}]{%
-kimball1973seven}
-\APACinsertmetastar {%
-kimball1973seven}%
-\begin{APACrefauthors}%
-Kimball, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1973}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Seven principles of surface structure parsing in natural
-  language} {Seven principles of surface structure parsing in natural
-  language}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cognition}{2}{1}{15--47}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Konieczny%
-}{%
-Konieczny%
-}{%
-{\protect \APACyear {2005}}%
-}]{%
-konieczny2005psychological}
-\APACinsertmetastar {%
-konieczny2005psychological}%
-\begin{APACrefauthors}%
-Konieczny, L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2005}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The psychological reality of local coherences in
-  sentence processing} {The psychological reality of local coherences in
-  sentence processing}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of the 27th annual conference of the
-  {C}ognitive {S}cience {S}ociety} {Proceedings of the 27th annual conference
-  of the {C}ognitive {S}cience {S}ociety}\ (\BPGS\ 1178--1183).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -542,29 +293,6 @@ Konieczny, L.%
 \BIn{} \APACrefbtitle {Proceedings of the 31st annual conference of the
   {C}ognitive {S}cience {S}ociety.} {Proceedings of the 31st annual conference
   of the {C}ognitive {S}cience {S}ociety.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Koschmieder%
-}{%
-Koschmieder%
-}{%
-{\protect \APACyear {1993}}%
-}]{%
-koschmieder1993benard}
-\APACinsertmetastar {%
-koschmieder1993benard}%
-\begin{APACrefauthors}%
-Koschmieder, E\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1993}.
-\newblock
-\APACrefbtitle {B{\'e}nard cells and Taylor vortices} {B{\'e}nard cells and
-  taylor vortices}.
-\newblock
-\APACaddressPublisher{}{Cambridge University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -683,6 +411,32 @@ Lewis, R\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+McClelland%
+\ \BBA {} Elman%
+}{%
+McClelland%
+\ \BBA {} Elman%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+mcclelland1986trace}
+\APACinsertmetastar {%
+mcclelland1986trace}%
+\begin{APACrefauthors}%
+McClelland, J\BPBI L.%
+\BCBT {}\ \BBA {} Elman, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {TRACE} model of speech perception} {The {TRACE}
+  model of speech perception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive psychology}{18}{}{1--86}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Mc{D}onald%
 \ \protect \BOthers {.}}{%
 Mc{D}onald%
@@ -711,37 +465,6 @@ Mc{D}onald, R.%
 \BIn{} \APACrefbtitle {Proceedings of the 51st Annual Meeting of the
   Association for Computational Linguistics} {Proceedings of the 51st annual
   meeting of the association for computational linguistics}\ (\BPGS\ 92--97).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Meijer%
-, Dercole%
-\BCBL {}\ \BBA {} Oldeman%
-}{%
-Meijer%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2009}}%
-}]{%
-meijer2009numerical}
-\APACinsertmetastar {%
-meijer2009numerical}%
-\begin{APACrefauthors}%
-Meijer, H.%
-, Dercole, F.%
-\BCBL {}\ \BBA {} Oldeman, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Numerical bifurcation analysis} {Numerical bifurcation
-  analysis}.{\BBCQ}
-\newblock
-\BIn{} R\BPBI A.~Meyers\ (\BED), \APACrefbtitle {Encyclopedia of Complexity and
-  Systems Science} {Encyclopedia of complexity and systems science}\ (\BPGS\
-  6329--6352).
-\newblock
-\APACaddressPublisher{}{Springer New York}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -854,6 +577,8 @@ Smith, G.%
   agreement}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive Science}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/cogs.12591} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -913,29 +638,6 @@ Smolensky, P.%
   Foundations, \BPGS\ 194--281).
 \newblock
 \APACaddressPublisher{}{MIT Press}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Smolensky%
-}{%
-Smolensky%
-}{%
-{\protect \APACyear {2006}}%
-}]{%
-smolensky2006harmony}
-\APACinsertmetastar {%
-smolensky2006harmony}%
-\begin{APACrefauthors}%
-Smolensky, P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2006}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Harmony in linguistic cognition} {Harmony in linguistic
-  cognition}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cognitive Science}{30}{}{779--801}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1071,30 +773,6 @@ Traxler, M\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Turing%
-}{%
-Turing%
-}{%
-{\protect \APACyear {1952}}%
-}]{%
-turing1952chemical}
-\APACinsertmetastar {%
-turing1952chemical}%
-\begin{APACrefauthors}%
-Turing, A\BPBI M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1952}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The chemical basis of morphogenesis} {The chemical basis
-  of morphogenesis}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Philosophical Transactions of the Royal Society B:
-  Biological Sciences}{237}{641}{37--72}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 {van der Velde}%
 \ \BBA {} {de Kamps}%
 }{%
@@ -1119,65 +797,6 @@ vandervelde2006neural}%
   structures in cognition}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Behavioral and Brain Sciences}{29}{}{37--108}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Vasishth%
-, J\"ager%
-\BCBL {}\ \BBA {} Nicenboim%
-}{%
-Vasishth%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-vasishth2017feature}
-\APACinsertmetastar {%
-vasishth2017feature}%
-\begin{APACrefauthors}%
-Vasishth, S.%
-, J\"ager, L\BPBI A.%
-\BCBL {}\ \BBA {} Nicenboim, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Feature overwriting as a finite mixture process:
-  Evidence from comprehension data} {Feature overwriting as a finite mixture
-  process: Evidence from comprehension data}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of MathPsych/{ICCM}.} {Proceedings of
-  mathpsych/{ICCM}.}
-\newblock
-\APACaddressPublisher{Warwick, UK}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Villata%
-, Tabor%
-\BCBL {}\ \BBA {} Franck%
-}{%
-Villata%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
-}]{%
-villata2018encoding}
-\APACinsertmetastar {%
-villata2018encoding}%
-\begin{APACrefauthors}%
-Villata, S.%
-, Tabor, W.%
-\BCBL {}\ \BBA {} Franck, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Encoding and retrieval interference in sentence
-  comprehension: Evidence from agreement} {Encoding and retrieval interference
-  in sentence comprehension: Evidence from agreement}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Frontiers in Psychology}{9}{2}{1--16}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1234,41 +853,6 @@ Vosse, T.%
   and error-tolerance in a constraint-based parser}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive neurodynamics}{3}{4}{331-346}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Zhao%
-, Huang%
-, Dai%
-, Zhang%
-\BCBL {}\ \BBA {} Chen%
-}{%
-Zhao%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
-}]{%
-zhao2014learning}
-\APACinsertmetastar {%
-zhao2014learning}%
-\begin{APACrefauthors}%
-Zhao, Y.%
-, Huang, S.%
-, Dai, X.%
-, Zhang, J.%
-\BCBL {}\ \BBA {} Chen, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{Oct}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Learning word embeddings from dependency relations}
-  {Learning word embeddings from dependency relations}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {2014 International Conference on Asian Language
-  Processing (IALP)} {2014 international conference on asian language
-  processing (ialp)}\ (\BPG~123-127).
-\newblock
-\begin{APACrefDOI} \doi{10.1109/IALP.2014.6973490} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

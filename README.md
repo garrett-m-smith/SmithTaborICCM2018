@@ -1,1 +1,1 @@
-Paper and code for our submission to ICCM 2018.
+Paper and code for Smith & Tabor (submitted) for MathPsych/ICCM 2018.
