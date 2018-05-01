@@ -19,3 +19,7 @@
 *-blx.aux
 *-blx.bib
 *.run.xml
+*.bst
+*.sty
+
+*.synctex.gz
